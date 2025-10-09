@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghannaway! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="favicon.png" alt="Banner" width="100%"/>
+  <img src="1757024365979.jpg" alt="Banner" width="100%"/>
 </div>
 
 ---
