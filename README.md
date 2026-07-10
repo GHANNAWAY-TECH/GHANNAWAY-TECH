@@ -55,8 +55,8 @@ I'm passionate about building secure and powerful web and technology solutions.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/GHANNAWAY-TECH/restaurant-menu-web-app">
-        <img src="https://github.com/GHANNAWAY-TECH/restaurant-menu-web-app/raw/main/assets/demo.gif" width="150"/>
+      <a href="https://ghannaway-tech.github.io/Restaurant-menu/green_theme/index.html">
+        <img src="https://github.com/GHANNAWAY-TECH/Restaurant-menu/blob/main/menubg.jpeg" width="150"/>
         <br>
         <b>Restaurant Menu Web App</b>
       </a>
