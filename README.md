@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ghannaway! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="1757024365979.jpg" alt="Banner" width="100%"/>
+  <img src="1757024365979.jpg" alt="Banner" width="120%"/>
 </div>
 
 ---
@@ -40,7 +40,7 @@ I'm passionate about building secure and powerful web and technology solutions.
 
 [![Facebook](https://img.shields.io/badge/Facebook-GhannawaySmart-1877F2?logo=facebook&logoColor=white)](https://facebook.com/GhannawaySmart)
 [![GitHub](https://img.shields.io/badge/GitHub-GHANNAWAY--TECH-333?logo=github&logoColor=white)](https://github.com/GHANNAWAY-TECH)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ghannaway.tech-29a19c?logo=chromecast&logoColor=white)](https://ghannaway.tech) <!-- Add this if you have a portfolio site -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-ghannaway.tech-29a19c?logo=chromecast&logoColor=white)](https://github.com/GhannawayTechSystems) <!-- Add this if you have a portfolio site -->
 
 ---
 
@@ -63,7 +63,7 @@ I'm passionate about building secure and powerful web and technology solutions.
       <br>Interactive and responsive menu built with HTML, CSS, and JS.
     </td>
     <td>
-      <a href="https://github.com/GHANNAWAY-TECH/cybersecurity-tools">
+      <a href="https://github.com/GhannawayTechSystems">
         <img src="https://github.com/GHANNAWAY-TECH/cybersecurity-tools/raw/main/assets/security.png" width="150"/>
         <br>
         <b>Cybersecurity Tools</b>
