@@ -77,7 +77,7 @@ I'm passionate about building secure and powerful web and technology solutions.
 
 <div align="center">
   
-  ![GHANNAWAY-TECH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHANNAWAY-TECH&show_icons=true&theme=radical)
+  ![GHANNAWAY-TECH's GitHub Stats](https://github-stats-extended.vercel.app/api?username=GHANNAWAY-TECH&show_icons=true&theme=radical)
   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GHANNAWAY-TECH&layout=compact&theme=radical)
   ![Profile Views](https://komarev.com/ghpvc/?username=GHANNAWAY-TECH&color=29a19c)
 
