@@ -82,20 +82,21 @@ I'm passionate about building secure and powerful web and technology solutions.
   ![Profile Views](https://komarev.com/ghpvc/?username=GHANNAWAY-TECH&color=29a19c)
 
 </div>
-
 ---
-
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Completed 20+ security-focused web projects**
-- 📜 **Published guides on web automation and cybersecurity**
-- 🌍 **Collaborated with international developer communities**
+* 🥇 **20+ Security-Focused Web Projects** — Designed and deployed secure, resilient web applications.
+* 📜 **Published Technical Author** — Authored guides on web automation, ethical hacking, and web security.
+* 🌍 **Global Collaborator** — Active member and contributor across international open-source developer communities.
 
 ---
 
-Thanks for visiting!  
-Feel free to explore my repositories or reach out for collaboration.
+### 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29A19C&center=true&vCenter=true&width=435&lines=Let's+build+secure+technology+together!" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29A19C&center=true&vCenter=true&width=435&lines=Let's+build+secure+technology+together!;Exploring+web+automation+%26+cybersecurity;Open+for+collaborations!" alt="Typing SVG" />
+
+  <p>Thanks for visiting! Feel free to explore my repositories or reach out to collaborate on secure systems and automation tools.</p>
+
 </div>
