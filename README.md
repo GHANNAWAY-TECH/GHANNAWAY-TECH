@@ -95,7 +95,7 @@ I'm passionate about building secure and powerful web and technology solutions.
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29A19C&center=true&vCenter=true&width=435&lines=Let's+build+secure+technology+together!;Exploring+web+automation+%26+cybersecurity;Open+for+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29A19C&center=true&vCenter=true&width=500&lines=Let's+build+secure+technology+together!;Exploring+web+automation+%26+cybersecurity;Open+for+collaborations!" alt="Typing SVG" />
 
   <p>Thanks for visiting! Feel free to explore my repositories or reach out to collaborate on secure systems and automation tools.</p>
 
