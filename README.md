@@ -64,7 +64,7 @@ I'm passionate about building secure and powerful web and technology solutions.
     </td>
     <td>
       <a href="https://github.com/GhannawayTechSystems">
-        <img src="https://github.com/GHANNAWAY-TECH/cybersecurity-tools/raw/main/assets/security.png" width="150"/>
+        <img src="https://i.postimg.cc/qRsdpb1s/cyber-security-shield-with-lock.png" width="150"/>
         <br>
         <b>Cybersecurity Tools</b>
       </a>
